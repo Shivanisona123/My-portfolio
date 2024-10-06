@@ -1,0 +1,20 @@
+[
+  {
+    "title": "E-commerce Website",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made with complete React js.",
+    "skills": ["React","HTML","CSS","JAVASCRIPT"],
+    "demo": "https://e-commerce-website-1l52.vercel.app/",
+    "source": "https://github.com/Shivanisona123"
+  },
+  {
+    "title": "Quiz-Application",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made with completely javaScript",
+    "skills": ["HTML","CSS","JAVASCRIPT"],
+    "demo": "https://quiz-application-black-eight.vercel.app/",
+    "source": "https://github.com/Shivanisona123"
+  }
+
+  
+]
